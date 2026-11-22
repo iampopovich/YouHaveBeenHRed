@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "you-have-been-hred",
+  "description": "Recruiter's-eye self-audit skill for AI agents",
+  "owner": {
+    "name": "Alex Popov",
+    "url": "https://github.com/iampopovich"
+  },
+  "plugins": [
+    {
+      "name": "you-have-been-hred",
+      "description": "See yourself the way a recruiter or an AI sourcing agent does: blind public-web search, an outsider dossier with sources, a 0-18 score and ready-to-paste profile fixes. Self-audit only.",
+      "source": "./",
+      "category": "productivity",
+      "author": {
+        "name": "Alex Popov",
+        "url": "https://github.com/iampopovich"
+      },
+      "homepage": "https://github.com/iampopovich/YouHaveBeenHRed"
+    }
+  ]
+}

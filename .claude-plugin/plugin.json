@@ -1,0 +1,22 @@
+{
+  "name": "you-have-been-hred",
+  "description": "See yourself the way a recruiter or an AI sourcing agent does: blind public-web search, an outsider dossier with sources, a 0-18 score and ready-to-paste profile fixes. Self-audit only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Popov",
+    "url": "https://github.com/iampopovich"
+  },
+  "homepage": "https://github.com/iampopovich/YouHaveBeenHRed",
+  "repository": "https://github.com/iampopovich/YouHaveBeenHRed",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "career",
+    "job-search",
+    "recruiting",
+    "sourcing",
+    "personal-brand",
+    "osint"
+  ]
+}

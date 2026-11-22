@@ -1,0 +1,6 @@
+# Personal audit output never belongs in this repo
+hred-*.md
+*baseline*.md
+serp-*.json
+.local/
+.DS_Store
